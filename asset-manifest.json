@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.bec563de.chunk.css",
-    "main.js": "/static/js/main.919f575e.chunk.js",
-    "main.js.map": "/static/js/main.919f575e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0403a33d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0403a33d.js.map",
-    "static/js/2.577b6a82.chunk.js": "/static/js/2.577b6a82.chunk.js",
-    "static/js/2.577b6a82.chunk.js.map": "/static/js/2.577b6a82.chunk.js.map",
+    "main.js": "/static/js/main.18016d94.chunk.js",
+    "main.js.map": "/static/js/main.18016d94.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2b44e8ad.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2b44e8ad.js.map",
+    "static/js/2.f3a2139d.chunk.js": "/static/js/2.f3a2139d.chunk.js",
+    "static/js/2.f3a2139d.chunk.js.map": "/static/js/2.f3a2139d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.299b944236809a1f4c76fbd03c74e32b.js": "/precache-manifest.299b944236809a1f4c76fbd03c74e32b.js",
+    "precache-manifest.0571be84f63a97b4aa1fb4e02892205b.js": "/precache-manifest.0571be84f63a97b4aa1fb4e02892205b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.bec563de.chunk.css.map": "/static/css/main.bec563de.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/Siddharth_dp.png": "/static/media/Siddharth_dp.b6eb862d.png",
+    "static/media/File.png": "/static/media/File.c22f6e40.png",
+    "static/media/Siddharth_dp.png": "/static/media/Siddharth_dp.61e57765.png",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
-    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.6c8410d0.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.52e0714e.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.b6b12c7d.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.dfcb7a58.svg",
@@ -54,9 +54,9 @@
     "static/media/verzeo.png": "/static/media/verzeo.6ae7c68c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0403a33d.js",
-    "static/js/2.577b6a82.chunk.js",
+    "static/js/runtime-main.2b44e8ad.js",
+    "static/js/2.f3a2139d.chunk.js",
     "static/css/main.bec563de.chunk.css",
-    "static/js/main.919f575e.chunk.js"
+    "static/js/main.18016d94.chunk.js"
   ]
 }
