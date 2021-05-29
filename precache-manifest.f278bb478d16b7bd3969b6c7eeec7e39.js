@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a33b3f836c9641b710a2966fa264f851",
+    "revision": "dc09f8760dd67ad7928ef89edafedcba",
     "url": "/index.html"
   },
   {
-    "revision": "ef198e3b7156bbd1d366",
-    "url": "/static/css/main.bec563de.chunk.css"
+    "revision": "d38c09c5b8bdc03e1cea",
+    "url": "/static/css/main.4eb476f6.chunk.css"
   },
   {
-    "revision": "dc273168e176d9c860fe",
-    "url": "/static/js/2.f811f232.chunk.js"
+    "revision": "621e42bb5f30731ac735",
+    "url": "/static/js/2.350e0c04.chunk.js"
   },
   {
-    "revision": "ef198e3b7156bbd1d366",
-    "url": "/static/js/main.37b6323f.chunk.js"
+    "revision": "d38c09c5b8bdc03e1cea",
+    "url": "/static/js/main.e1880881.chunk.js"
   },
   {
     "revision": "3fd6e287f36e080d35cd",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "61e57765e6e731f3f8ad15e95855816d",
     "url": "/static/media/Siddharth_dp.61e57765.png"
+  },
+  {
+    "revision": "ec37930bc7cf891527032a76d444c39e",
+    "url": "/static/media/UCSanDiego.ec37930b.jpeg"
   },
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
